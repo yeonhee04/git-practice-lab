@@ -1,1 +1,1 @@
-"Version B - from feature" 
+"Line from feature branch" 
